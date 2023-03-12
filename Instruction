@@ -1,0 +1,8 @@
+Pseudo-COde 
+
+1- Take inputs (domain) from List
+2- Fetch All their Content Passivily
+3- Store them sepratly into each domain = Each file
+4- Scan Them One by One using XSS
+5- Stored Results into separatly files
+6- Parse the First Result & grep some Pattern for redirection Research 
